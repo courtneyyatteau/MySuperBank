@@ -20,16 +20,6 @@ namespace BankingTests
             Assert.Throws<InvalidOperationException>(
                 () => account.MakeWithdrawal(800, DateTime.Now, "Attempt to overdraw")
             );
-
-            //try
-            //{
-            //    var invalidAccount = new BankAccount("invalid", -55);
-            //}
-            //catch (ArgumentOutOfRangeException e)
-            //{
-            //    Console.WriteLine("Exception caught creating account with negative balance.");
-            //    Console.WriteLine(e.ToString());
-            //}
         }
 
         [Fact]
