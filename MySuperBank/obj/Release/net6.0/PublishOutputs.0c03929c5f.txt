@@ -1,0 +1,8 @@
+C:\Users\Courtney\Documents\dotNet_cSharp_Practice\MySuperBank\MySuperBank\bin\Release\net6.0\publish\MySuperBank.exe
+C:\Users\Courtney\Documents\dotNet_cSharp_Practice\MySuperBank\MySuperBank\bin\Release\net6.0\publish\MySuperBank.dll
+C:\Users\Courtney\Documents\dotNet_cSharp_Practice\MySuperBank\MySuperBank\bin\Release\net6.0\publish\MySuperBank.deps.json
+C:\Users\Courtney\Documents\dotNet_cSharp_Practice\MySuperBank\MySuperBank\bin\Release\net6.0\publish\MySuperBank.runtimeconfig.json
+C:\Users\Courtney\Documents\dotNet_cSharp_Practice\MySuperBank\MySuperBank\bin\Release\net6.0\publish\MySuperBank.pdb
+C:\Users\Courtney\Documents\dotNet_cSharp_Practice\MySuperBank\MySuperBank\bin\Release\net6.0\publish\Humanizer.dll
+C:\Users\Courtney\Documents\dotNet_cSharp_Practice\MySuperBank\MySuperBank\bin\Release\net6.0\publish\BankLibrary.dll
+C:\Users\Courtney\Documents\dotNet_cSharp_Practice\MySuperBank\MySuperBank\bin\Release\net6.0\publish\BankLibrary.pdb

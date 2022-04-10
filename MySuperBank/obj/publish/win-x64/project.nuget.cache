@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+q8MjJgVpA1QrufNKYIWSIFGraWcp9xvr11n8K9jtEgGEzmwvPQIkYcutuk3JMoPacUjQVnIFTLQbUnm6iHUiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Courtney\\Documents\\dotNet_cSharp_Practice\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Courtney\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Courtney\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.3\\microsoft.netcore.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\Courtney\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\Courtney\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

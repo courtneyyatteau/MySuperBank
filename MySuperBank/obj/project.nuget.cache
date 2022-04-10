@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F8HOfIIw85kL7z46j6FhIsjxJDcLq5Tl+GBmhoQ6LWoWByJ6GnBFr5UmJEByjw6LYBVAs0F+JvOKqiaFuubFQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Courtney\\Documents\\dotNet_cSharp_Practice\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Courtney\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
